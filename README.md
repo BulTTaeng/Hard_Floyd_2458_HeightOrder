@@ -1,4 +1,4 @@
-# Hard_2458_HeightOrder
+# Hard_Floyd_2458_HeightOrder
 
 made by Jaehyeok Choi
 
@@ -6,7 +6,7 @@ made by Jaehyeok Choi
 
 ## What is the problem?
 
-![image](https://github.com/Choi-JaeHyeok-21500749/Hard_2458_HeightOrder/blob/main/2458_pro.PNG)
+![image](https://github.com/Choi-JaeHyeok-21500749/Hard_Floyd_2458_HeightOrder/blob/main/2458_pro.PNG)
 
 ## What Algorithm should I use?
 
